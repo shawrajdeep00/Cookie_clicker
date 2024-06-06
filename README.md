@@ -132,8 +132,3 @@ Contributions are welcome! If you have suggestions or improvements, please let m
 I hope this helps, thank you.
 
 
-```
-
-Feel free to customize this README further to suit your specific needs. If there are any additional details you'd like to include or specific formatting preferences, let me know!
-
-Would you like me to remember anything specific about your preferences for creating README files or about this project?
